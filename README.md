@@ -48,9 +48,9 @@ For email / password authentication and getting started with Supabase, definitel
 - Integration Tests: Component workflows and database operations
 - E2E Tests: Cross-browser testing
 
-## Demo
+## Application screenshots
 
-You can view a working demo at [https://auth-profiles.vercel.app/](https://auth-profiles.vercel.app/)
+On Supabase free tier plan, removing project from deployment.
 
 Check out docs/ screenshots for reference.
 
