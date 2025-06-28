@@ -50,7 +50,7 @@ For email / password authentication and getting started with Supabase, definitel
 
 ## Application screenshots
 
-On Supabase free tier plan, removing project from deployment.
+On Supabase free tier plan, with limited number of projects available.
 
 Check out docs/ screenshots for reference.
 
